@@ -35,7 +35,7 @@ For updates on upcoming alumni talks and events, make sure to follow us on socia
 - **Instagram:** [acmw.bpdc](https://www.instagram.com/acmw.bpdc/) 📸
 - **LinkedIn:** [ACM-W BPDC](https://ae.linkedin.com/company/acmw-bpdc) 💼
 
-📂 **Meeting Notes Folder:** [Access here](#) - For detailed insights shared by our alumni.
+📂 **Meeting Notes Folder:** [Access here](https://github.com/acmw-bpdc/ConnectED/tree/main/ConnectED(2024-25)) - For detailed insights shared by our alumni.
 
 ---
 
