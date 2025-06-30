@@ -28,7 +28,7 @@ ACM-W BPDC hosted two insightful alumni talk events in the first semester of the
 - 🛠️ Highlighted essential skills for careers in data analytics and program management.
 
 ### 2. 🎙️ Alumni Talk with Niyati Parameswaran
-**Date:** 29 June 2025    
+**Date:** 5 May 2025    
 **Guest:** [Niyati Parameswaran](https://www.linkedin.com/in/niyatiparameswaran/?lipi=urn%3Ali%3Apage%3Ad_flagship3_company_admin%3B764RvdUFQ9WNIWm2PaqtkQ%3D%3D)  
 **Background:** Niyati is a key contributor to Google’s Core Machine Learning (CoreML) team. With a strong foundation in ML research and real-world applications, she shared her journey from academia to impactful industry work, blending technical expertise with personal experiences.
 
